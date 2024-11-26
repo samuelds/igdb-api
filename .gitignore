@@ -1,0 +1,12 @@
+# Ignore all ide files
+.idea
+
+# Ignore all external dependencies
+node_modules
+
+# Igngore environment files for local development
+.env*
+!.env
+
+# Ignore all build files
+dist
